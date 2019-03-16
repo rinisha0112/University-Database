@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Project_ER" id="5D56EE07-35B5-EB89-3C93-5D85E216523B" version="3.5">
+<createdBy>Dell</createdBy>
+<createdTime>2018-11-10 08:02:36 UTC</createdTime>
+<ownerDesignName>Project_ER</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>5D56EE07-35B5-EB89-3C93-5D85E216523B</designId>
+<usedDesignStorageDescriptors>
+<designDescr class="oracle.dbtools.crest.model.design.Design$DesignStorageDesc" id="D401F363-289C-24EF-7F73-15F41D855021">
+<designStoragePath>E:\DDLDrop</designStoragePath>
+</designDescr>
+</usedDesignStorageDescriptors>
+</OSDM_Design>
